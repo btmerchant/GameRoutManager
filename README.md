@@ -1,7 +1,7 @@
 # GameRoutManager
 An Amusement Route Management application
 
-This application gives an Amusement Company the ability to track their operations with the CRUD following functionality.
+This application gives an Amusement Company the ability to track their operations with the following CRUD functionality.
 
 * Company Information
 * Employee Information
